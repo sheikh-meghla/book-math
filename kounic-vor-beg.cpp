@@ -8,6 +8,6 @@ int main() {
     cout << "Enter kokhopoth number:";
     cin >> n;
 
-    cout << "mvr = "<<(n * h) /(2 * P)<<endl;
+    cout << "mvr = "<<(n * h) /(2 * P)<<" J.s"<<endl;
     return 0;
 }
